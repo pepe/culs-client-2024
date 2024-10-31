@@ -20,7 +20,6 @@ title: Content
 ---
 ## XML
 * History
-* Not really human readable
 * Java world
 * Incarnations
 ---
@@ -28,7 +27,6 @@ title: Content
 * HTML & XML
 * Tree structure
 * Object Oriented
-* Live Screen
 ---
 ## JSON
 * History
@@ -48,7 +46,10 @@ title: Content
 * Markdown
 * SVG
 * Binary
-* Task some more
+---
+# Markdown
+---
+# SVG
 ---
 ## HTML dissect
 * Head
@@ -58,10 +59,10 @@ title: Content
 ## Custom Elements
 * Your way
 * Customisable
-* Live Screen
 ---
 ## Accessibility
 * Aria
+* Please do
 ---
 ## Live Screen
 * HTML boilerplate
