@@ -1,5 +1,5 @@
 # Submissions
 
-@pepe https://glitch.com/edit/#!/canyon-long-lynx
+@Machowsky99 https://github.com/Machowsky99/culs-project-2024
 
 ---
