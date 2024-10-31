@@ -1,5 +1,5 @@
 # Submissions
 
-@pepe https://glitch.com/edit/#!/canyon-long-lynx
+@NorthMorrigan01 (Tamar Jalaghonia) https://github.com/NorthMorrigan01/culs-project-2024
 
 ---
